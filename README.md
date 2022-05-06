@@ -16,7 +16,7 @@
 
 
 4. Clone my repository --> https://github.com/TihomirDimitrov95/hypoport-solution
-   `curl --location --request GET 'http://localhost:8080/v1/documents'`
+
 
 My project will make HTTP calls to your Documents API, process the data and return information at my endpoints.
 
